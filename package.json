@@ -1,0 +1,9 @@
+{
+  "name": "ClassDemo3Srv",
+  "description": "Class Demo 3 Server",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  }
+}
