@@ -39,7 +39,8 @@ var carList = new Array(
 for (var i=0; i < carList.length;++i){
 	carList[i].id = carNextId++;
 }
- 
+
+// Database connection string: pg://<username>:<password>@host:port/dbname 
 var conString = "pg://course:course@localhost:5432/coursedb";
 
 
